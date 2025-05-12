@@ -1,6 +1,7 @@
 # Kanser Patoloji Raporlama Sistemleri
 
 Bu proje, çeşitli **kanser türleri** için özelleştirilmiş, modern ve kullanıcı dostu **patoloji raporlama sistemleri** sunar. Her sistem, **klinik pratiğe uygun**, tamamen Türkçe içeriklerle geliştirilmiş ve **bilimsel titizlikle tasarlanmıştır**.
+Based on CancerReportingTemplate: https://github.com/awiloQMH/CancerReportingTemplate
 
 📍 Yayında: [https://metinciris.github.io/kanser_raporlama/](https://metinciris.github.io/kanser_raporlama/)
 
